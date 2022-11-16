@@ -4,7 +4,7 @@
 
 
 # İlk olarak root'u yerleştiririz. Ardından dizinin 2. elemanının root'dan büyük mü yoksa küçük mü olduğunu kontrol
-# ederiz. Büyükse ağacın root'umuzun altndaki sağ dalına, küçükse sol dalına yerleştiririz. Bu şekilde diğerlerini de
+# ederiz. Büyükse ağacın root'umuzun altındaki sağ dalına, küçükse sol dalına yerleştiririz. Bu şekilde diğerlerini de
 # sırasıyla yerleştirip ağacımızı oluştururuz.
 
 # Öncelikle dengeli bir ağacımız olması yani average case durumumuza bakalım
