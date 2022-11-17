@@ -43,5 +43,3 @@
 #  0   2
 
 # Bu durumda ise Big-O gösterimimiz: O(n) şeklindedir
-
-[Patika.Dev](www.patika.dev)
